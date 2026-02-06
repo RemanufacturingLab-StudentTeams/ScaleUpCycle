@@ -1,4 +1,4 @@
-# Remanufacturing Lab - "Project Name"
+# Remanufacturing Lab - "ScaleUpCycle"
 "Brief explanation of project"
 
 # General Overview
