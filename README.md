@@ -54,5 +54,5 @@ A [Git Policy](docs/policy.md) was written for this project. Please adhere to it
 
 # Attribution
 
-- Project manager: [Manager of the project/project leader])
-- Collaborator - "roles of the collaborator": [Name]
+- Project manager: Satish Kumar Beella
+- Collaborator - Oskar Imioliek, Jenna Coward, Wouter Nederlof, Hugo Makkink
